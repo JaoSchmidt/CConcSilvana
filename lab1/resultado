@@ -1,0 +1,180 @@
+Multiplicando matrizes de dimensão 500 com 1 threads
+(a) inicialização das estruturas de dados = 0.016662
+(b) criação das threads, execução da multiplicação, e término das threads = 1.491635
+(c) finalização do programa = 0.001007
+Multiplicando matrizes de dimensão 500 com 1 threads
+(a) inicialização das estruturas de dados = 0.017430
+(b) criação das threads, execução da multiplicação, e término das threads = 1.513137
+(c) finalização do programa = 0.001195
+Multiplicando matrizes de dimensão 500 com 1 threads
+(a) inicialização das estruturas de dados = 0.017650
+(b) criação das threads, execução da multiplicação, e término das threads = 1.532062
+(c) finalização do programa = 0.001212
+Multiplicando matrizes de dimensão 500 com 1 threads
+(a) inicialização das estruturas de dados = 0.022813
+(b) criação das threads, execução da multiplicação, e término das threads = 1.481515
+(c) finalização do programa = 0.001236
+Multiplicando matrizes de dimensão 500 com 1 threads
+(a) inicialização das estruturas de dados = 0.015960
+(b) criação das threads, execução da multiplicação, e término das threads = 1.505753
+(c) finalização do programa = 0.001057
+Multiplicando matrizes de dimensão 500 com 2 threads
+(a) inicialização das estruturas de dados = 0.020867
+(b) criação das threads, execução da multiplicação, e término das threads = 0.767282
+(c) finalização do programa = 0.001024
+Multiplicando matrizes de dimensão 500 com 2 threads
+(a) inicialização das estruturas de dados = 0.014924
+(b) criação das threads, execução da multiplicação, e término das threads = 0.790777
+(c) finalização do programa = 0.001065
+Multiplicando matrizes de dimensão 500 com 2 threads
+(a) inicialização das estruturas de dados = 0.015862
+(b) criação das threads, execução da multiplicação, e término das threads = 0.780379
+(c) finalização do programa = 0.001008
+Multiplicando matrizes de dimensão 500 com 2 threads
+(a) inicialização das estruturas de dados = 0.015739
+(b) criação das threads, execução da multiplicação, e término das threads = 0.787939
+(c) finalização do programa = 0.001031
+Multiplicando matrizes de dimensão 500 com 2 threads
+(a) inicialização das estruturas de dados = 0.015697
+(b) criação das threads, execução da multiplicação, e término das threads = 0.790321
+(c) finalização do programa = 0.001252
+Multiplicando matrizes de dimensão 500 com 4 threads
+(a) inicialização das estruturas de dados = 0.015865
+(b) criação das threads, execução da multiplicação, e término das threads = 0.407917
+(c) finalização do programa = 0.000998
+Multiplicando matrizes de dimensão 500 com 4 threads
+(a) inicialização das estruturas de dados = 0.018505
+(b) criação das threads, execução da multiplicação, e término das threads = 0.413709
+(c) finalização do programa = 0.001005
+Multiplicando matrizes de dimensão 500 com 4 threads
+(a) inicialização das estruturas de dados = 0.018694
+(b) criação das threads, execução da multiplicação, e término das threads = 0.412806
+(c) finalização do programa = 0.001023
+Multiplicando matrizes de dimensão 500 com 4 threads
+(a) inicialização das estruturas de dados = 0.014712
+(b) criação das threads, execução da multiplicação, e término das threads = 0.409088
+(c) finalização do programa = 0.001016
+Multiplicando matrizes de dimensão 500 com 4 threads
+(a) inicialização das estruturas de dados = 0.017070
+(b) criação das threads, execução da multiplicação, e término das threads = 0.421312
+(c) finalização do programa = 0.001043
+Multiplicando matrizes de dimensão 1000 com 1 threads
+(a) inicialização das estruturas de dados = 0.048795
+(b) criação das threads, execução da multiplicação, e término das threads = 12.806275
+(c) finalização do programa = 0.004058
+Multiplicando matrizes de dimensão 1000 com 1 threads
+(a) inicialização das estruturas de dados = 0.048520
+(b) criação das threads, execução da multiplicação, e término das threads = 12.933619
+(c) finalização do programa = 0.003867
+Multiplicando matrizes de dimensão 1000 com 1 threads
+(a) inicialização das estruturas de dados = 0.049417
+(b) criação das threads, execução da multiplicação, e término das threads = 12.831795
+(c) finalização do programa = 0.003982
+Multiplicando matrizes de dimensão 1000 com 1 threads
+(a) inicialização das estruturas de dados = 0.049236
+(b) criação das threads, execução da multiplicação, e término das threads = 13.061025
+(c) finalização do programa = 0.004104
+Multiplicando matrizes de dimensão 1000 com 1 threads
+(a) inicialização das estruturas de dados = 0.048495
+(b) criação das threads, execução da multiplicação, e término das threads = 12.919503
+(c) finalização do programa = 0.003905
+Multiplicando matrizes de dimensão 1000 com 2 threads
+(a) inicialização das estruturas de dados = 0.052687
+(b) criação das threads, execução da multiplicação, e término das threads = 6.716529
+(c) finalização do programa = 0.003924
+Multiplicando matrizes de dimensão 1000 com 2 threads
+(a) inicialização das estruturas de dados = 0.050017
+(b) criação das threads, execução da multiplicação, e término das threads = 6.914274
+(c) finalização do programa = 0.002989
+Multiplicando matrizes de dimensão 1000 com 2 threads
+(a) inicialização das estruturas de dados = 0.049979
+(b) criação das threads, execução da multiplicação, e término das threads = 6.808800
+(c) finalização do programa = 0.003471
+Multiplicando matrizes de dimensão 1000 com 2 threads
+(a) inicialização das estruturas de dados = 0.054118
+(b) criação das threads, execução da multiplicação, e término das threads = 6.834254
+(c) finalização do programa = 0.004030
+Multiplicando matrizes de dimensão 1000 com 2 threads
+(a) inicialização das estruturas de dados = 0.048116
+(b) criação das threads, execução da multiplicação, e término das threads = 6.941489
+(c) finalização do programa = 0.002696
+Multiplicando matrizes de dimensão 1000 com 4 threads
+(a) inicialização das estruturas de dados = 0.048348
+(b) criação das threads, execução da multiplicação, e término das threads = 3.460710
+(c) finalização do programa = 0.003952
+Multiplicando matrizes de dimensão 1000 com 4 threads
+(a) inicialização das estruturas de dados = 0.047943
+(b) criação das threads, execução da multiplicação, e término das threads = 3.406212
+(c) finalização do programa = 0.003912
+Multiplicando matrizes de dimensão 1000 com 4 threads
+(a) inicialização das estruturas de dados = 0.053807
+(b) criação das threads, execução da multiplicação, e término das threads = 3.475207
+(c) finalização do programa = 0.004053
+Multiplicando matrizes de dimensão 1000 com 4 threads
+(a) inicialização das estruturas de dados = 0.049155
+(b) criação das threads, execução da multiplicação, e término das threads = 3.371016
+(c) finalização do programa = 0.002240
+Multiplicando matrizes de dimensão 1000 com 4 threads
+(a) inicialização das estruturas de dados = 0.048459
+(b) criação das threads, execução da multiplicação, e término das threads = 3.382327
+(c) finalização do programa = 0.001773
+Multiplicando matrizes de dimensão 2000 com 4 threads
+(a) inicialização das estruturas de dados = 0.174624
+(b) criação das threads, execução da multiplicação, e término das threads = 38.537016
+(c) finalização do programa = 0.006593
+Multiplicando matrizes de dimensão 2000 com 4 threads
+(a) inicialização das estruturas de dados = 0.177436
+(b) criação das threads, execução da multiplicação, e término das threads = 38.474516
+(c) finalização do programa = 0.007077
+Multiplicando matrizes de dimensão 2000 com 4 threads
+(a) inicialização das estruturas de dados = 0.176325
+(b) criação das threads, execução da multiplicação, e término das threads = 38.419326
+(c) finalização do programa = 0.007217
+Multiplicando matrizes de dimensão 2000 com 4 threads
+(a) inicialização das estruturas de dados = 0.175615
+(b) criação das threads, execução da multiplicação, e término das threads = 38.406016
+(c) finalização do programa = 0.006805
+Multiplicando matrizes de dimensão 2000 com 4 threads
+(a) inicialização das estruturas de dados = 0.173075
+(b) criação das threads, execução da multiplicação, e término das threads = 38.385006
+(c) finalização do programa = 0.006633
+Multiplicando matrizes de dimensão 2000 com 2 threads
+(a) inicialização das estruturas de dados = 0.176207
+(b) criação das threads, execução da multiplicação, e término das threads = 74.621841
+(c) finalização do programa = 0.015966
+Multiplicando matrizes de dimensão 2000 com 2 threads
+(a) inicialização das estruturas de dados = 0.175972
+(b) criação das threads, execução da multiplicação, e término das threads = 74.889009
+(c) finalização do programa = 0.015287
+Multiplicando matrizes de dimensão 2000 com 2 threads
+(a) inicialização das estruturas de dados = 0.173799
+(b) criação das threads, execução da multiplicação, e término das threads = 74.916621
+(c) finalização do programa = 0.010567
+Multiplicando matrizes de dimensão 2000 com 2 threads
+(a) inicialização das estruturas de dados = 0.180340
+(b) criação das threads, execução da multiplicação, e término das threads = 74.879013
+(c) finalização do programa = 0.006353
+Multiplicando matrizes de dimensão 2000 com 2 threads
+(a) inicialização das estruturas de dados = 0.177539
+(b) criação das threads, execução da multiplicação, e término das threads = 74.746950
+(c) finalização do programa = 0.011395
+Multiplicando matrizes de dimensão 2000 com 1 threads
+(a) inicialização das estruturas de dados = 0.180111
+(b) criação das threads, execução da multiplicação, e término das threads = 141.361610
+(c) finalização do programa = 0.006207
+Multiplicando matrizes de dimensão 2000 com 1 threads
+(a) inicialização das estruturas de dados = 0.175372
+(b) criação das threads, execução da multiplicação, e término das threads = 141.926638
+(c) finalização do programa = 0.015151
+Multiplicando matrizes de dimensão 2000 com 1 threads
+(a) inicialização das estruturas de dados = 0.173198
+(b) criação das threads, execução da multiplicação, e término das threads = 141.849315
+(c) finalização do programa = 0.011099
+Multiplicando matrizes de dimensão 2000 com 1 threads
+(a) inicialização das estruturas de dados = 0.174935
+(b) criação das threads, execução da multiplicação, e término das threads = 143.058802
+(c) finalização do programa = 0.007099
+Multiplicando matrizes de dimensão 2000 com 1 threads
+(a) inicialização das estruturas de dados = 0.174008
+(b) criação das threads, execução da multiplicação, e término das threads = 146.644981
+(c) finalização do programa = 0.012367
