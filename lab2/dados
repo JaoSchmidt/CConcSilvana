@@ -1,0 +1,180 @@
+Algoritmo para max e min de vetor tam = 100000, nthreads = 2 Tempo sequencial: 0.000766
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.001110
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 2 Tempo sequencial: 0.000761
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.001185
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 2 Tempo sequencial: 0.000761
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.001182
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 2 Tempo sequencial: 0.000768
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.001176
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 2 Tempo sequencial: 0.000759
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.001180
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 4 Tempo sequencial: 0.000774
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.000922
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 4 Tempo sequencial: 0.000757
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.001069
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 4 Tempo sequencial: 0.000764
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.000875
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 4 Tempo sequencial: 0.000762
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.001118
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 100000, nthreads = 4 Tempo sequencial: 0.000379
+Maximo Valor seq:214746.984375
+Minimo Valor seq:0.372200
+Tempo concorrente: 0.000642
+Maximo Valor Conc:214746.984375
+Minimo Valor Conc:0.372200
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 4 Tempo sequencial: 0.026411
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.014037
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 4 Tempo sequencial: 0.026354
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.016742
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 4 Tempo sequencial: 0.026371
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.014542
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 4 Tempo sequencial: 0.025912
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.012972
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 4 Tempo sequencial: 0.026767
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.013040
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 2 Tempo sequencial: 0.026579
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.022479
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 2 Tempo sequencial: 0.026818
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.021407
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 2 Tempo sequencial: 0.026637
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.023961
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 2 Tempo sequencial: 0.026590
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.023375
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 10000000, nthreads = 2 Tempo sequencial: 0.026658
+Maximo Valor seq:214748.296875
+Minimo Valor seq:0.003700
+Tempo concorrente: 0.022665
+Maximo Valor Conc:214748.296875
+Minimo Valor Conc:0.003700
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 2 Tempo sequencial: 2.675931
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 1.437719
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 2 Tempo sequencial: 2.668258
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 1.434925
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 2 Tempo sequencial: 2.673145
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 1.439615
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 2 Tempo sequencial: 2.638346
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 1.456144
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 2 Tempo sequencial: 2.647444
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 1.436730
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 4 Tempo sequencial: 2.665481
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 0.749321
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 4 Tempo sequencial: 2.686850
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 0.772506
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 4 Tempo sequencial: 2.640892
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 0.750774
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 4 Tempo sequencial: 2.649563
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 0.742241
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
+Algoritmo para max e min de vetor tam = 1000000000, nthreads = 4 Tempo sequencial: 2.641381
+Maximo Valor seq:214748.359375
+Minimo Valor seq:0.000300
+Tempo concorrente: 0.746239
+Maximo Valor Conc:214748.359375
+Minimo Valor Conc:0.000300
