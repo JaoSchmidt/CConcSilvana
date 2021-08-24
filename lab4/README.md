@@ -1,4 +1,4 @@
-Arquivos .sh são scripts que usam bash. Normalmente eu as usei para fazer vários __testes__ diferentes.
+Arquivos .sh são scripts que usam bash. Normalmente eu as uso para fazer vários __testes__ diferentes.
 
 Arquivos .log são os resultados dos testes. Todos os testes printados e ordenados neles
 
