@@ -1,0 +1,397 @@
+
+
+Teste 1 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+B: thread 3 x = 13, vai se bloquear...
+A: Comecei: thread 2
+A: thread 1, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 23
+X=23
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 2 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 1, x = 10, encontrou padrao 
+B: Comecei: thread 3
+B: thread 3 x = 13, vai se bloquear...
+A: thread 2, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 22
+X=22
+A: thread 1, x = 30, encontrou padrao 
+A: thread 1, x = 40, encontrou padrao 
+FIM.
+
+Teste 3 do printXmodificado
+
+B: Comecei: thread 3
+X=0
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 1, x = 10, encontrou padrao 
+A: thread 1, x = 20, encontrou padrao 
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 4 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 2, x = 10, encontrou padrao 
+B: Comecei: thread 3
+X=10
+A: thread 1, x = 20, encontrou padrao 
+A: thread 1, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 5 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+B: Comecei: thread 3
+A: thread 2, x = 10, encontrou padrao 
+A: thread 2, x = 20, encontrou padrao 
+A: thread 1, x = 30, encontrou padrao 
+B: thread 3 x = 34, vai se bloquear...
+A: thread 1, x = 40, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 40
+X=40
+FIM.
+
+Teste 6 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+B: thread 3 x = 14, vai se bloquear...
+A: Comecei: thread 2
+A: thread 2, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 23
+X=23
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 7 do printXmodificado
+
+A: Comecei: thread 1
+A: thread 1, x = 10, encontrou padrao 
+B: Comecei: thread 3
+B: thread 3 x = 13, vai se bloquear...
+A: thread 1, x = 20, encontrou padrao 
+A: Comecei: thread 2
+B: thread 3, sinal recebido e mutex realocado. x = 26
+X=26
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 8 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 2, x = 10, encontrou padrao 
+B: Comecei: thread 3
+A: thread 2, x = 20, encontrou padrao 
+A: thread 1, x = 30, encontrou padrao 
+A: thread 1, x = 40, encontrou padrao 
+X=40
+FIM.
+
+Teste 9 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+A: Comecei: thread 2
+B: thread 3 x = 17, vai se bloquear...
+A: thread 1, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 24
+X=24
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 10 do printXmodificado
+
+B: Comecei: thread 3
+A: Comecei: thread 2
+A: Comecei: thread 1
+X=0
+A: thread 1, x = 10, encontrou padrao 
+A: thread 1, x = 20, encontrou padrao 
+A: thread 1, x = 30, encontrou padrao 
+A: thread 1, x = 40, encontrou padrao 
+FIM.
+
+Teste 11 do printXmodificado
+
+A: Comecei: thread 1
+A: thread 1, x = 10, encontrou padrao 
+B: Comecei: thread 3
+B: thread 3 x = 19, vai se bloquear...
+A: thread 1, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 20
+X=20
+A: Comecei: thread 2
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 12 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+A: Comecei: thread 2
+A: thread 1, x = 20, encontrou padrao 
+A: thread 1, x = 30, encontrou padrao 
+B: thread 3 x = 32, vai se bloquear...
+A: thread 1, x = 40, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 40
+X=40
+FIM.
+
+Teste 13 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 2, x = 10, encontrou padrao 
+B: Comecei: thread 3
+X=10
+A: thread 1, x = 20, encontrou padrao 
+A: thread 1, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 14 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+B: thread 3 x = 15, vai se bloquear...
+A: Comecei: thread 2
+A: thread 2, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 22
+X=22
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 15 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+A: Comecei: thread 2
+B: thread 3 x = 18, vai se bloquear...
+A: thread 1, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 25
+X=25
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 16 do printXmodificado
+
+B: Comecei: thread 3
+X=0
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 2, x = 10, encontrou padrao 
+A: thread 2, x = 20, encontrou padrao 
+A: thread 1, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 17 do printXmodificado
+
+A: Comecei: thread 1
+A: thread 1, x = 10, encontrou padrao 
+B: Comecei: thread 3
+B: thread 3 x = 14, vai se bloquear...
+A: Comecei: thread 2
+A: thread 2, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 22
+X=22
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 18 do printXmodificado
+
+B: Comecei: thread 3
+X=0
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 1, x = 10, encontrou padrao 
+A: thread 1, x = 20, encontrou padrao 
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 19 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 2, x = 10, encontrou padrao 
+B: Comecei: thread 3
+A: thread 2, x = 20, encontrou padrao 
+A: thread 1, x = 30, encontrou padrao 
+B: thread 3 x = 34, vai se bloquear...
+A: thread 1, x = 40, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 40
+X=40
+FIM.
+
+Teste 20 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 1, x = 10, encontrou padrao 
+A: thread 2, x = 20, encontrou padrao 
+B: Comecei: thread 3
+B: thread 3 x = 29, vai se bloquear...
+A: thread 1, x = 30, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 31
+X=31
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 21 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+B: Comecei: thread 3
+A: thread 2, x = 10, encontrou padrao 
+X=10
+A: thread 2, x = 20, encontrou padrao 
+A: thread 2, x = 30, encontrou padrao 
+A: thread 1, x = 40, encontrou padrao 
+FIM.
+
+Teste 22 do printXmodificado
+
+B: Comecei: thread 3
+X=0
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 2, x = 10, encontrou padrao 
+A: thread 2, x = 20, encontrou padrao 
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 23 do printXmodificado
+
+B: Comecei: thread 3
+X=0
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 1, x = 10, encontrou padrao 
+A: thread 1, x = 20, encontrou padrao 
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 24 do printXmodificado
+
+B: Comecei: thread 3
+X=0
+A: Comecei: thread 1
+A: Comecei: thread 2
+A: thread 1, x = 10, encontrou padrao 
+A: thread 1, x = 20, encontrou padrao 
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 25 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+A: Comecei: thread 2
+B: thread 3 x = 14, vai se bloquear...
+A: thread 1, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 20
+X=20
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 26 do printXmodificado
+
+A: Comecei: thread 1
+A: thread 1, x = 10, encontrou padrao 
+A: thread 1, x = 20, encontrou padrao 
+B: Comecei: thread 3
+X=20
+A: Comecei: thread 2
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 27 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+B: thread 3 x = 18, vai se bloquear...
+A: thread 1, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 20
+X=20
+A: Comecei: thread 2
+A: thread 2, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 28 do printXmodificado
+
+A: Comecei: thread 1
+B: Comecei: thread 3
+A: thread 1, x = 10, encontrou padrao 
+B: thread 3 x = 15, vai se bloquear...
+A: Comecei: thread 2
+A: thread 1, x = 20, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 21
+X=21
+A: thread 1, x = 30, encontrou padrao 
+A: thread 2, x = 40, encontrou padrao 
+FIM.
+
+Teste 29 do printXmodificado
+
+A: Comecei: thread 1
+A: Comecei: thread 2
+B: Comecei: thread 3
+A: thread 2, x = 10, encontrou padrao 
+A: thread 2, x = 20, encontrou padrao 
+B: thread 3 x = 26, vai se bloquear...
+A: thread 1, x = 30, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 33
+X=33
+A: thread 1, x = 40, encontrou padrao 
+FIM.
+
+Teste 30 do printXmodificado
+
+A: Comecei: thread 1
+A: thread 1, x = 10, encontrou padrao 
+A: Comecei: thread 2
+A: thread 1, x = 20, encontrou padrao 
+B: Comecei: thread 3
+B: thread 3 x = 24, vai se bloquear...
+A: thread 2, x = 30, encontrou padrao 
+B: thread 3, sinal recebido e mutex realocado. x = 37
+X=37
+A: thread 2, x = 40, encontrou padrao 
+FIM.

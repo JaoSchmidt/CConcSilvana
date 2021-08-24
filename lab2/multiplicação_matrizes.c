@@ -36,14 +36,15 @@ int main(int argc, char* argv[]){
 	tArgs *args; //estrutura com dimensão e id
 	double t1, t2, delta;
 	//verificando input do usuário
-	GET_TIME(t1);
 	if(argc<3){
 		printf("Digite: %s <dimensção da matriz> <numero de threads>",argv[0]);
 		exit(1);
 	}
 	dimens = atoi(argv[1]);
 	nthreads = atoi(argv[2]);
+	printf("Multiplicando matrizes de dimensão %d usando %d threads\n",dimens,nthreads);
 	//alocando matrizes
+	GET_TIME(t1);
 	matrix1 = (long *) malloc(sizeof(long)*dimens*dimens);
 	if(matrix1 == NULL){printf("ERRO -- malloc\n");exit(2);}
 	matrix2 = (long *) malloc(sizeof(long)*dimens*dimens);
