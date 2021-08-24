@@ -1,0 +1,417 @@
+
+
+Teste 1 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 2 do hellobye
+
+A: Comecei
+B: Comecei
+A: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 3 do hellobye
+
+A: Comecei
+A: Comecei
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: Comecei
+BYE
+
+FIM
+
+Teste 4 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 5 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 6 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 7 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 8 do hellobye
+
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+A: Comecei
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 9 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 10 do hellobye
+
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+A: Comecei
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 11 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 12 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 13 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 14 do hellobye
+
+A: Comecei
+B: Comecei
+A: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 15 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 16 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 17 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 18 do hellobye
+
+A: Comecei
+B: Comecei
+A: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 19 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 20 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 21 do hellobye
+
+A: Comecei
+B: Comecei
+A: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 22 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 23 do hellobye
+
+A: Comecei
+A: Comecei
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: Comecei
+BYE
+
+FIM
+
+Teste 24 do hellobye
+
+A: Comecei
+B: Comecei
+A: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 25 do hellobye
+
+A: Comecei
+B: Comecei
+A: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 26 do hellobye
+
+A: Comecei
+B: Comecei
+A: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 27 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 28 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 29 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM
+
+Teste 30 do hellobye
+
+A: Comecei
+A: Comecei
+B: Comecei
+B: x= 0, vai se bloquear...
+HELLO
+HELLO
+A:  x = 2, vai sinalizar a condicao 
+B: sinal recebido e mutex realocado, x = 2
+BYE
+
+FIM

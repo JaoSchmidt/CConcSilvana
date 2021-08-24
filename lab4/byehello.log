@@ -1,0 +1,479 @@
+
+
+Teste 1 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 2 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 3 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 4 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 5 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 6 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 7 do byehello
+
+A: Comecei
+A: vai se bloquear...
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 8 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 9 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 10 do byehello
+
+A: Comecei
+A: Comecei
+A: vai se bloquear...
+B: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 11 do byehello
+
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+B: Comecei
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 12 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 13 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 14 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 15 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 16 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 17 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 18 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 19 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 20 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 21 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 22 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 23 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 24 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 25 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 26 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 27 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 28 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
+
+Teste 29 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: Comecei
+BYE
+
+FIM
+
+Teste 30 do byehello
+
+B: Comecei
+A: Comecei
+A: vai se bloquear...
+A: Comecei
+A: vai se bloquear...
+HELLO
+B: x = 1, vai sinalizar a condicao 
+A: sinal recebido e mutex realocado, x = 1
+BYE
+A: sinal recebido e mutex realocado, x = 1
+BYE
+
+FIM
