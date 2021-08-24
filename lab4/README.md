@@ -1,0 +1,7 @@
+Arquivos .sh são scripts que usam bash. Normalmente eu as usei para fazer vários __testes__ diferentes.
+
+Arquivos .log são os resultados dos testes. Todos printados e ordenados nele
+
+Arquivos .out são os executáveis que foram usados depois de compilar
+
+Todos os arquivos podem ser compilados usando __gcc \<nome do arquivo\> -lpthread__
