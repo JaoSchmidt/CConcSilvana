@@ -1,0 +1,97 @@
+import verificaLE
+le = verificaLE.LE()
+le.leitorLendo(1)
+le.LeitorEscritorBloqueado(2)
+le.LeitorEscritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.leitorLendo(7)
+le.leitorLendo(6)
+le.leitorLendo(5)
+le.leitorLendo(4)
+le.leitorLendo(3)
+le.leitorLendo(2)
+variavel = 0 é um número divisível por 2
+variavel = 0 é um número divisível por 2
+variavel = 0 é um número divisível por 2
+variavel = 0 é um número divisível por 2
+variavel = 0 é um número divisível por 2
+variavel = 0 é um número divisível por 2
+le.leitorSaindo(6)
+variavel = 0 é um número divisível por 2
+le.LeitorEscritorBloqueado(2)
+le.leitorSaindo(4)
+le.leitorSaindo(7)
+le.leitorSaindo(1)
+le.leitorSaindo(5)
+le.leitorSaindo(2)
+le.leitorSaindo(3)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.LeitorEscritorBloqueado(1)
+variavel 0 é par
+le.LeitorEsritorSaindo(2)
+le.escritorEscrevendo(1)
+le.LeitorEscritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorSaindo(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+variavel 1 é ímpar
+le.LeitorEsritorSaindo(1)
+le.escritorEscrevendo(2)
+le.escritorSaindo(2)
+le.escritorEscrevendo(3)
+le.escritorSaindo(3)
+le.leitorLendo(1)
+variavel = 3 é um número primo
+le.leitorSaindo(1)
+le.escritorEscrevendo(1)
+le.escritorSaindo(1)
+variavel 1 é ímpar
+le.LeitorEsritorSaindo(1)
+le.leitorLendo(2)
+variavel = 2 é um número primo
+le.leitorSaindo(2)
+le.leitorLendo(1)
+variavel = 2 é um número primo
+le.leitorSaindo(1)
+le.leitorLendo(3)
+variavel = 2 é um número primo
+le.leitorSaindo(3)
+variavel 2 é par
+le.LeitorEsritorSaindo(2)
+le.leitorLendo(1)
+variavel = 4 é um número divisível por 2
+le.leitorSaindo(1)
+le.escritorEscrevendo(1)
+le.escritorSaindo(1)
+le.escritorEscrevendo(2)
+le.escritorSaindo(2)
+variavel 2 é par
+le.LeitorEsritorSaindo(1)
+le.leitorLendo(4)
+variavel = 4 é um número divisível por 2
+le.leitorSaindo(4)
+le.leitorLendo(2)
+variavel = 4 é um número divisível por 2
+le.leitorSaindo(2)
+le.leitorLendo(1)
+variavel = 4 é um número divisível por 2
+le.leitorSaindo(1)
+le.escritorEscrevendo(1)
+le.escritorSaindo(1)
+le.escritorEscrevendo(3)
+le.escritorSaindo(3)
+variavel 3 é ímpar
+
+le.LeitorEsritorSaindo(1)
+le.leitorLendo(5)
+variavel = 6 é um número divisível por 2
+le.leitorSaindo(5)
+le.leitorLendo(1)
+variavel = 6 é um número divisível por 2
+le.leitorSaindo(1)
